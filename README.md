@@ -1,4 +1,4 @@
-# futureWeather (千里天气)
+# futureWeather (千里天气) 🌞☁️☁️
 
 Use historical data of weather to predict weather of future
 
@@ -23,7 +23,7 @@ Use historical data of weather to predict weather of future
 
 <img src="./assets/logo/sun-changed.svg" style="width: 100px; height: 100px;" />
 
-The logo is changed from:
+Logo 由以下 icon 修改而来(通过改变颜色):
 
 <img src="./assets/logo/sun.svg" style="width: 100px; height: 100px;" />
 <div>Icons made by <a href="https://www.flaticon.com/authors/lucy-g" title="Lucy G">Lucy G</a> from <a href="https://www.flaticon.com/"             title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"             title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
