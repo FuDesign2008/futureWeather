@@ -21,9 +21,10 @@ Use historical data of weather to predict weather of future
 
 ## logo
 
-<img src="./assets/logo/sun-changed.svg" style="width: 100px; height: 100px;" />
+![logo](./assets/logo/sun-changed.svg | width=150)
 
 Logo 由以下 icon 修改而来(通过改变颜色):
 
-<img src="./assets/logo/sun.svg" style="width: 100px; height: 100px;" />
+![icon](./assets/logo/sun.svg | width=150)
+
 <div>Icons made by <a href="https://www.flaticon.com/authors/lucy-g" title="Lucy G">Lucy G</a> from <a href="https://www.flaticon.com/"             title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"             title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
